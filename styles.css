@@ -1,0 +1,90 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+ text-align: center;
+  font-size: 20px;
+
+  
+}
+@font-face{font-family:bhfont;
+  src:url("font.otf");
+          }
+h1{
+  font-family: bhfont;
+  font-size: 92px;
+}
+body{
+  background-color:#c86f7b;
+  color:white;
+ 
+}
+ .para {font-family: 'Kablammo', sans-serif;
+  font-size: 25px
+  
+}
+
+h3{
+  font-family:
+}
+p{
+  font-family: 'Tangerine', cursive;
+  font-size: 25px;
+  text-shadow:2px 4px 5px blue;
+}
+p1{
+  font-family:'Montez',sans-serif;
+  font-size: 20px;
+}
+
+ h3 i {
+  color:red;
+}
+
+h1{
+  background-image: url(khalid.jpg);
+  background-size:cover;
+  height:100px;
+  display: center;
+}
+h3{
+  font-family:'Bagel Fat One',sans-serif;
+  font-size: 25px;
+  color: black;
+}
+
+#contrast:h2{
+  height: 100px;
+  display:flex;
+  background-color: #e1341e;
+}
+h2{
+  background-color: #1ecbe1;
+  color:#0e0e0e;
+  text-shadow: 4px,2px,4px ;
+}
+h3{
+   text-shadow: 4px,2px,4px red;
+  
+} 
+h3 span{
+   background-color: #2c1fe0;
+  color:#0e0e0e;
+  text-shadow: 4px,2px,4px rgba(0,0,0,0.5);
+  
+}
+p1 span{
+  font-family:'Kablammo',cursive;
+  font-size: 25px;
+  color:#9ac8e5;
+}
+a{
+  font-family:"Montez", serif;
+  color:white;
+  
+  
+}
+p2 span{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-shadow: 4px,2px,4px red;
+}
